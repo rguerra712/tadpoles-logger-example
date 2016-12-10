@@ -1,5 +1,5 @@
 !#/bin/sh
 echo off
 clear
-zip zipped.zip *
-echo Files zipped to file "zipped.zip"
+zip index.zip *
+echo Files zipped to file "index.zip"

@@ -1,0 +1,14 @@
+{
+  "name": "tadpoles-logger-lambda",
+  "version": "1.0.0",
+  "description": "Log in your child via aws lambda by deploying this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache",
+  "dependencies": {
+    "tadpoles-logger": "1.0.0"
+  }
+}

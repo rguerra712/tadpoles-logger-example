@@ -9,6 +9,6 @@
   "author": "R. Stephen Guerra",
   "license": "Apache",
   "dependencies": {
-    "tadpoles-logger": "1.0.0"
+    "tadpoles-logger": "1.0.3"
   }
 }

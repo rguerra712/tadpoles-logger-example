@@ -1,5 +1,5 @@
 {
-  "name": "tadpoles-logger-lambda",
+  "name": "tadpoles-logger-example",
   "version": "1.0.0",
   "description": "Log in your child via aws lambda by deploying this package",
   "main": "index.js",
